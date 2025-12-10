@@ -53,6 +53,16 @@ SysAdmins
 <br />
 
 <p>
+<img src="https://i.imgur.com/v9oJwbN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Teams
+Admin Panel -> Agents -> Teams (Pull Agents from different Departments)
+Online Banking
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
