@@ -43,7 +43,7 @@ Supreme Admin
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6fggQ1m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
